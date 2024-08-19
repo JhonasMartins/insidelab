@@ -1,0 +1,37 @@
+API Restricted Use License
+
+Version 1.0
+
+1. Definitions
+
+1.1. "API" refers to the software and code provided by InsideLab under this license.
+
+1.2. "Licensee" refers to any person or entity that accesses or uses the API.
+
+2. Grant of License
+
+2.1. License to Use: The Licensor grants the Licensee a limited, non-exclusive, non-transferable, and revocable license to use the API strictly for internal purposes as described in the provided documentation. This license does not permit copying, modification, distribution, sale, sublicensing, or any other use of the API that is not expressly permitted by this license.
+
+3. Restrictions
+
+3.1. Prohibition on Copying: The Licensee may not copy, reproduce, or distribute the API or any portion thereof, whether in its original or modified form.
+
+3.2. Prohibition on Modification: The Licensee may not alter, modify, adapt, decompile, reverse engineer, or create derivative works from the API.
+
+3.3. Prohibition on Redistribution: The Licensee may not redistribute, sell, sublicense, lease, rent, or otherwise transfer the API or any portion thereof to third parties.
+
+4. Intellectual Property
+
+4.1. Ownership: The API and all related intellectual property rights are the exclusive property of the Licensor. Nothing in this license shall be construed as transferring any intellectual property rights to the Licensee.
+
+5. Termination
+
+5.1. Termination: This license will automatically terminate if the Licensee violates any term or condition of this license. Upon termination, the Licensee must immediately cease using the API and destroy all copies in their possession.
+
+6. No Warranty
+
+**6.1. The API is provided "as is" and "as available," without warranties of any kind, either express or implied, including, but not limited to, warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+7. Limitation of Liability
+
+**7.1. In no event shall the Licensor be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to loss of profits, data, or other intangible losses, arising out of the use or inability to use the API.
